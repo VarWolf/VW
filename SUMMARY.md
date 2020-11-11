@@ -7,7 +7,8 @@
 
 * [猿人学](py-pa-chong-js-ni-xiang/yuan-ren-xue/README.md)
   * [视频笔记](py-pa-chong-js-ni-xiang/yuan-ren-xue/shi-pin-bi-ji.md)
-  * [比赛题目](py-pa-chong-js-ni-xiang/yuan-ren-xue/bi-sai-ti-mu.md)
+  * [比赛题目](py-pa-chong-js-ni-xiang/yuan-ren-xue/bi-sai-ti-mu/README.md)
+    * [第五题 JS混淆 乱码增强](py-pa-chong-js-ni-xiang/yuan-ren-xue/bi-sai-ti-mu/di-wu-ti-js-hun-xiao-luan-ma-zeng-qiang.md)
 * [NightTeam（夜幕）](py-pa-chong-js-ni-xiang/untitled-7/README.md)
   * [—调用 JavaScript 执行代码【下】](py-pa-chong-js-ni-xiang/untitled-7/untitled/README.md)
     * [Untitled](py-pa-chong-js-ni-xiang/untitled-7/untitled/untitled-2.md)
